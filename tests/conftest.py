@@ -10,17 +10,20 @@ import requests
 parent = (Path(__file__).absolute().parent)
 
 parameters = {
-    "siteKey": "AU-Main",
-    "sourcesystem" : "houston",
     "where" : "All Adelaide SA",
-    "page" : "1",
-    "seekSelectAllPages" : "true",
     "keywords" : "data analyst",
 }
 
 def mocked_requests_get(url: str, params: dict = None):
     request_url = url
     if params:
+        default_params = dict(
+            siteKey="AU-Main",
+            sourcesystem="houston",
+            page="1",
+            seekSelectAllPages="true",
+            )
+        params = dict(params, **default_params)
         url += "?"
         for k, v in params.items():
             url += f"{k}={v}&"
@@ -40,7 +43,8 @@ def mocked_requests_get(url: str, params: dict = None):
     if "https://www.seek.com.au/api/chalice-search/search" in url:
         with open( parent / "data/response.json", "r+") as fp:
             resp = json.load(fp)
-            resp["page"] = parameters["page"]
+            
+            resp["page"] = params["page"]
             
         return MockResponse(resp, 200)
 
