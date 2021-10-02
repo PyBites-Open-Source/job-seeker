@@ -1,6 +1,6 @@
 # Job Seeker
 
-job_seeker is a utility to download data of a job search into a csv file for data analysis and exploration
+job_seeker is an utility to download data of a job search from seek.com.au into a csv file for data analysis and exploration
 
 ## Setting up
 
@@ -13,25 +13,33 @@ git clone https://github.com/pedrojunqueira/job-seeker.git
 ### go to directory job-seeker on root path
 
 ```bash
-cd job-seeker`
+cd job-seeker
 ```
 
 ## install from source
 
-make sure you are on the root directory i.e. the directory where the setup.py file is
+make sure you are on the root directory i.e. the directory where the setup.py file is located
+
+then to install just do a `pip install .`
 
 ```bash
 .
 ├── LICENSE
 ├── README.md
+├── example
+│   ├── job_seeker_usage.py
+│   └── my_job_search.csv
 ├── job_seeker
 │   ├── __init__.py
 │   └── downloader.py
 ├── pyproject.toml
 ├── setup.py
+└── tests
+    ├── conftest.py
+    ├── data
+    │   └── response.json
+    └── test_downloader.py
 ```
-
-to install just `pip install .`
 
 ## Code example usage
 
@@ -46,7 +54,7 @@ parameters = {
     "keywords" : "data analyst",
 }
 
-#instantiate class
+#instantiate the JobSeeker class
 
 js = JobSeeker(params=parameters)
 
@@ -58,7 +66,7 @@ df = js.jobs_df
 print(df.head())
 
 
-# to save as a csv
+# to save as a csv in the current directory. See example on the ./example folder
 df.to_csv("my_job_search.csv")
 
 ```
