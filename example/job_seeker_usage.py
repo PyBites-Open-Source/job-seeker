@@ -3,11 +3,11 @@ from job_seeker.downloader import JobSeeker
 # set parameters
 
 parameters = {
-    "where" : "All Adelaide SA",
-    "keywords" : "data analyst",
+    "where": "All Adelaide SA",
+    "keywords": "data analyst",
 }
 
-#instantiate class
+# instantiate class
 
 js = JobSeeker(params=parameters)
 
