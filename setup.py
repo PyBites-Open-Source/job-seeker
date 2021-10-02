@@ -1,9 +1,9 @@
-import setuptools
+from setuptools import find_packages, setup
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-setuptools.setup(
+setup(
     name="job_seeker",
     version="0.0.1",
     author="Pedro Junqueira",
@@ -20,7 +20,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=setuptools.find_packages(),
+    packages=find_packages(exclude=["tests"]),
     install_requires=["pandas", "requests"],
     python_requires=">=3.6",
 )
