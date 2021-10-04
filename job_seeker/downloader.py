@@ -84,7 +84,7 @@ class JobSeeker:
     def _df_to_io_output(self, df):
         return df.to_csv(index=False)
 
-    def _extract_list_job_ids(self)-> list:
+    def _extract_list_job_ids(self) -> list:
         if "job_id" in self.jobs_df.columns:
             return self.jobs_df["job_id"].to_list()
 
@@ -93,7 +93,7 @@ class JobSeeker:
         for job in self.jobs_id:
             r = requests.get(f"{self.SEEK_API_URL_JOB}/{job}")
             if r.ok:
+                print(f"downloading... job {job}")
                 job_data = r.json()
                 jobs_detail.append(job_data)
         return jobs_detail
-

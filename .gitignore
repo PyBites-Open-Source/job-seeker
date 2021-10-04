@@ -133,3 +133,4 @@ vscode/
 config/
 
 token
+.DS_Store
