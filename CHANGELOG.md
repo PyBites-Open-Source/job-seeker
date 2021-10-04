@@ -1,6 +1,6 @@
 # Change Log
 
-## Unreleased
+## 0.0.2
 
 ### Added
 
@@ -17,7 +17,7 @@
 
 - VCR tests as they were unstable and unpredictable
 
-## 0.1.0
+## 0.0.1
 
 Released on October 4, 2021.
 
