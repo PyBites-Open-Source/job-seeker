@@ -2,7 +2,13 @@
 
 job_seeker is an utility to download data of a job search from seek.com.au into a csv file for data analysis and exploration
 
-## Setting up
+## Install using pip
+
+```bash
+pip install job-seeker
+```
+
+## Setting up to install from source
 
 ### download the package
 
