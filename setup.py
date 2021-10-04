@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="job_seeker",
-    version="0.0.1",
+    version="0.0.2",
     author="Pedro Junqueira",
     author_email="pedrocj@gmail.com",
-    description="An utility downloader for job searcher at seek.com.au",
+    description="An utility downloader for a job search at seek.com.au",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pedrojunqueira/job-seeker",

@@ -1,0 +1,2504 @@
+[
+  {
+    "page": 1,
+    "content": {
+      "title": "Data Analyst Jobs in All Adelaide SA",
+      "totalCount": 40,
+      "data": [
+        {
+          "id": 54008191,
+          "listingDate": "2020-07-06T11:54:43Z",
+          "title": "Data Analyst",
+          "teaser": "A unique opportunity to work as a Data Analyst for our growing federal government client",
+          "bulletPoints": [
+            "Commonwealth (Federal) Government Opportunity",
+            "Adelaide CBD Location"
+          ],
+          "advertiser": {
+            "id": "43321394",
+            "description": "Randstad Professionals"
+          },
+          "logo": {
+            "id": "838586",
+            "description": "838586"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1409",
+            "description": "Government - Federal"
+          },
+          "salary": "$46.46 - $58.67 p.h. + superannuation and benefits",
+          "companyProfileStructuredDataId": 1275,
+          "companyName": "Randstad",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMSIKfQ==",
+          "templateFileName": "27426310_8.HTM",
+          "roleId": "data-analyst",
+          "branding": {
+            "id": "2ad4321f-0b51-4c94-2e98-387a7881fe65",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/ec6969a6a2827cf11b21283763ae16016d4035dd"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50195834",
+            "section": "MAIN",
+            "sectionRank": 1,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54099149,
+          "listingDate": "2020-07-06T07:56:11Z",
+          "title": "Business/Data Analyst - 3 months",
+          "teaser": "3 month contract // Immediate start // CBD based role",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "23607483",
+            "description": "Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years!"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "3 month contract",
+          "companyProfileStructuredDataId": 22548,
+          "companyName": "Talent International",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMiIKfQ==",
+          "templateFileName": "568671_84.HTM",
+          "roleId": "business-data-analyst",
+          "branding": {
+            "id": "e996ffa1-94d6-a9fb-d565-b4464185752b",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/87e3d955ea102c1da1ecfda308e7844b1bd9f202"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50195293",
+            "section": "MAIN",
+            "sectionRank": 2,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54101932,
+          "listingDate": "2020-07-02T23:49:24Z",
+          "title": "Business Analyst",
+          "teaser": "Opportunity for an analyst to join SAPOL’s Data Warehouse team to build, develop and deliver Data Warehouse solutions which support the business.",
+          "bulletPoints": [
+            "Long term vacancy at South Australia Police",
+            "Developing Data Warehouse applications using SQL, SSIS Biml",
+            "Business Objects reporting"
+          ],
+          "advertiser": {
+            "id": "26630173",
+            "description": "South Australia Police"
+          },
+          "logo": {
+            "id": "505139",
+            "description": "505139"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6287",
+            "description": "Developers/Programmers"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 447,
+          "companyName": "South Australia Police",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMyIKfQ==",
+          "templateFileName": "15661867_1.HTM",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "5a32be73-f2f5-67f0-a98b-80694792cb0d",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/1b34566b14bb3090e094522c4a1cdcb4e681f358"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50181769",
+            "section": "MAIN",
+            "sectionRank": 3,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54150559,
+          "listingDate": "2020-07-02T23:49:24Z",
+          "title": "Business Analyst",
+          "teaser": "Opportunity for an analyst to join SAPOL’s Data Warehouse team to build, develop and deliver Data Warehouse solutions which support the business.",
+          "bulletPoints": [
+            "Long term vacancy at South Australia Police",
+            "Developing Data Warehouse applications using SQL, SSIS Biml",
+            "Business Objects reporting"
+          ],
+          "advertiser": {
+            "id": "26630173",
+            "description": "South Australia Police"
+          },
+          "logo": {
+            "id": "505139",
+            "description": "505139"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1411",
+            "description": "Government - State"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 447,
+          "companyName": "South Australia Police",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNCIKfQ==",
+          "templateFileName": "15661867_1.HTM",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "5a32be73-f2f5-67f0-a98b-80694792cb0d",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/1b34566b14bb3090e094522c4a1cdcb4e681f358"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50181770",
+            "section": "MAIN",
+            "sectionRank": 4,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54110619,
+          "listingDate": "2020-06-23T23:37:33Z",
+          "title": "Data Analytics Officer",
+          "teaser": "Opportunity to be part of a new team that will focus on delivering outcomes for the state.",
+          "bulletPoints": [
+            "Newly created position",
+            "Analysis of government expenditure",
+            "Flexible working arrangements"
+          ],
+          "advertiser": {
+            "id": "20065039",
+            "description": "Department of Treasury and Finance"
+          },
+          "logo": {
+            "id": "152185",
+            "description": "152185"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6076",
+            "description": "Consulting & Strategy"
+          },
+          "subClassification": {
+            "id": "6077",
+            "description": "Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7618,
+          "companyName": "Department of Treasury & Finance SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNSIKfQ==",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "officer",
+          "branding": {
+            "id": "8941dc29-d0ec-fb25-ada9-f37750426683",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/cfb415c98e28f31a0fc26edb530ebaf8021f26db"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50134482",
+            "section": "MAIN",
+            "sectionRank": 5,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54171607,
+          "listingDate": "2020-06-29T16:54:38Z",
+          "title": "Data Scientist",
+          "teaser": "A Great Opportunity in an exciting startup!",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "45288009",
+            "description": "The Firehouse"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1223",
+            "description": "Science & Technology"
+          },
+          "subClassification": {
+            "id": "6222",
+            "description": "Mathematics, Statistics & Information Sciences"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 320553,
+          "companyName": "The Firehouse",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNiIKfQ==",
+          "templateFileName": "ptmpl_1.htm",
+          "roleId": "data-scientist",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50160561",
+            "section": "MAIN",
+            "sectionRank": 6,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": false,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54098788,
+          "listingDate": "2020-06-23T23:37:33Z",
+          "title": "Data Analytics Officer",
+          "teaser": "Opportunity to be part of a new team that will focus on delivering outcomes for the state.",
+          "bulletPoints": [
+            "Newly created position",
+            "Analysis of government expenditure",
+            "Flexible working arrangements"
+          ],
+          "advertiser": {
+            "id": "20065039",
+            "description": "Department of Treasury and Finance"
+          },
+          "logo": {
+            "id": "152185",
+            "description": "152185"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1411",
+            "description": "Government - State"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7618,
+          "companyName": "Department of Treasury & Finance SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNyIKfQ==",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "officer",
+          "branding": {
+            "id": "8941dc29-d0ec-fb25-ada9-f37750426683",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/cfb415c98e28f31a0fc26edb530ebaf8021f26db"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50134483",
+            "section": "MAIN",
+            "sectionRank": 7,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54131807,
+          "listingDate": "2020-06-30T07:51:45Z",
+          "title": "BI Analyst",
+          "teaser": "Excellent BI Analyst opportunity with a well reputed client in Adelaide.",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "33086778",
+            "description": "FinXL IT Professional Services"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6287",
+            "description": "Developers/Programmers"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 23616,
+          "companyName": "FinXL IT Professional Services",
+          "locationWhereValue": "All Adelaide SA",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfOCIKfQ==",
+          "templateFileName": "2379_10.HTM",
+          "roleId": "business-intelligence-analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50166588",
+            "section": "MAIN",
+            "sectionRank": 8,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54111077,
+          "listingDate": "2020-06-30T23:34:00Z",
+          "title": "Intelligence Analyst (Signals)",
+          "teaser": "Work in a highly classified environment providing Air Force operations with intelligence support.",
+          "bulletPoints": [
+            "Handle sensitive intelligence that contributes to national security",
+            "Full training provided to work with high-tech equipment",
+            "Excellent salary package plus travel and numerous benefits"
+          ],
+          "advertiser": {
+            "id": "35679794",
+            "description": "Defence Force Recruiting"
+          },
+          "logo": {
+            "id": "627775",
+            "description": "627775"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1409",
+            "description": "Government - Federal"
+          },
+          "salary": "$70,000 - $74,999",
+          "companyProfileStructuredDataId": 3730,
+          "companyName": "Royal Australian Air Force",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfOSIKfQ==",
+          "templateFileName": "23533776_1.HTM",
+          "roleId": "intelligence-analyst",
+          "branding": {
+            "id": "2fa5e6f7-e915-a9d6-dec9-6c4f67787513",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/a836621ca7d100527a5df8eade2ad0d12f8e6342"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50168348",
+            "section": "MAIN",
+            "sectionRank": 9,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54169416,
+          "listingDate": "2020-06-30T23:33:59Z",
+          "title": "Intelligence Analyst (Signals)",
+          "teaser": "Work in a highly classified environment providing Air Force operations with intelligence support.",
+          "bulletPoints": [
+            "Handle sensitive intelligence that contributes to national security",
+            "Full training provided to work with high-tech equipment",
+            "Excellent salary package plus travel and numerous benefits"
+          ],
+          "advertiser": {
+            "id": "35679794",
+            "description": "Defence Force Recruiting"
+          },
+          "logo": {
+            "id": "627775",
+            "description": "627775"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6297",
+            "description": "Security"
+          },
+          "salary": "$70,000 - $74,999",
+          "companyProfileStructuredDataId": 3730,
+          "companyName": "Royal Australian Air Force",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTAiCn0=",
+          "templateFileName": "23533776_1.HTM",
+          "roleId": "intelligence-analyst",
+          "branding": {
+            "id": "2fa5e6f7-e915-a9d6-dec9-6c4f67787513",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/a836621ca7d100527a5df8eade2ad0d12f8e6342"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50168347",
+            "section": "MAIN",
+            "sectionRank": 10,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54111544,
+          "listingDate": "2020-06-26T04:36:53Z",
+          "title": "Market Intelligence and Consumer Insights Analyst",
+          "teaser": "Food SA is seeking a Market Intelligence and Consumer Insights Analyst to support the profitable growth of the SA food and beverage industry.",
+          "bulletPoints": [
+            "Newly created role in peak industry body in South Australia",
+            "Full time (part time negotiable)",
+            "Contract position until end June 2022"
+          ],
+          "advertiser": {
+            "id": "28794689",
+            "description": "Food South Australia Inc"
+          },
+          "logo": {
+            "id": "10048958",
+            "description": "10048958"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 21532,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6008",
+            "description": "Marketing & Communications"
+          },
+          "subClassification": {
+            "id": "6014",
+            "description": "Market Research & Analysis"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 242658,
+          "companyName": "Food South Australia",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Urrbrae SA 5064",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTEiCn0=",
+          "templateFileName": "ptmpl_1.htm",
+          "roleId": "consumer-insights-analyst",
+          "branding": {
+            "id": "619b9068-ac6a-a8f6-d5c8-1ed2685634dc",
+            "logo": {
+              "url": "https://image-service-cdn.seek.com.au/256ab70d7e726e5f454d7552d442b9f7e5caf897"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50150046",
+            "section": "MAIN",
+            "sectionRank": 11,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": false,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54119024,
+          "listingDate": "2020-07-03T12:21:10Z",
+          "title": "Spatial Image Data Specialist",
+          "teaser": "Excellent opportunity for an experienced industry professional to join a rapidly growing team in the role of Spatial Image Data Specialist.",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "31910200",
+            "description": "Aerometrex"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 20905,
+          "workType": "Casual/Vacation",
+          "classification": {
+            "id": "1223",
+            "description": "Science & Technology"
+          },
+          "subClassification": {
+            "id": "6218",
+            "description": "Environmental, Earth & Geosciences"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 209816,
+          "companyName": "Aerometrex",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Glynde SA 5070",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTIiCn0=",
+          "templateFileName": "31910200_2.HTM",
+          "roleId": "data-specialist",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50187702",
+            "section": "MAIN",
+            "sectionRank": 12,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54092722,
+          "listingDate": "2020-06-17T23:24:16Z",
+          "title": "NV1 Data Analyst",
+          "teaser": "Long term rolling contract!\r\nData Analyst with Power BI experience\r\nMust have NV1 clearance",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "22297007",
+            "description": "Green Light PS Pty Ltd"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6286",
+            "description": "Database Development & Administration"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 23233,
+          "companyName": "Green Light Australia",
+          "locationWhereValue": "All Adelaide SA",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTMiCn0=",
+          "templateFileName": "22297007_1.htm",
+          "roleId": "data-analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50106699",
+            "section": "MAIN",
+            "sectionRank": 13,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54101421,
+          "listingDate": "2020-07-03T06:16:46Z",
+          "title": "Business Analyst",
+          "teaser": "An exciting opportunity exists for an experienced Business Analyst to join our International Business Development team",
+          "bulletPoints": [
+            "Based in Adelaide",
+            "Expanding Multinational Company",
+            "Room for Growth"
+          ],
+          "advertiser": {
+            "id": "24204296",
+            "description": "ICS"
+          },
+          "logo": {
+            "id": "825202",
+            "description": "825202"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 24049,
+          "workType": "Part Time",
+          "classification": {
+            "id": "6076",
+            "description": "Consulting & Strategy"
+          },
+          "subClassification": {
+            "id": "6077",
+            "description": "Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 0,
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Norwood SA 5067",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTQiCn0=",
+          "templateFileName": "24204296_3.HTM",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "3a84f766-737b-01a6-e6e8-cc708a456775",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/ee24437543888b200147b2b02cc47ab3b772e74a"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50186136",
+            "section": "MAIN",
+            "sectionRank": 14,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54095328,
+          "listingDate": "2020-06-18T00:46:34Z",
+          "title": "Analyst",
+          "teaser": "CBD Location | 6-month contract | on-going training",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "21807721",
+            "description": "Robert Walters"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "1203",
+            "description": "Banking & Financial Services"
+          },
+          "subClassification": {
+            "id": "6175",
+            "description": "Analysis & Reporting"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 2557,
+          "companyName": "Robert Walters",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTUiCn0=",
+          "templateFileName": "2174_50.HTM",
+          "roleId": "analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50107458",
+            "section": "MAIN",
+            "sectionRank": 15,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54101932,
+          "listingDate": "2020-07-03T01:01:16Z",
+          "title": "Manager, Public Transport Data and Analytics",
+          "teaser": "This role is responsible for developing and maintaining data governance and ownership structure and records",
+          "bulletPoints": [
+            "Take ownership of all public transport data and analytics for the department",
+            "Develop and implement data strategy",
+            "Roadmap for a whole of public transport data analytics platform"
+          ],
+          "advertiser": {
+            "id": "20294524",
+            "description": "Department of Planning, Transport & Infrastructure"
+          },
+          "logo": {
+            "id": "315724",
+            "description": "315724"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6303",
+            "description": "Other"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7590,
+          "companyName": "Department of Planning, Transport & Infrastructure SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTYiCn0=",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "manager",
+          "branding": {
+            "id": "24bf9bfc-e7d1-eae9-efb4-cd8783a9972e",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/d3518b74f4eacbe7948b38fa4d45c76512b92745"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50182506",
+            "section": "MAIN",
+            "sectionRank": 16,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 53853932,
+          "listingDate": "2020-06-26T00:28:04Z",
+          "title": "Product Analyst",
+          "teaser": "Define new product features and shape existing user experiences in a dynamic, collaborative team environment. Dulwich, Adelaide location.",
+          "bulletPoints": [
+            "Leading APAC Payroll and HCM SaaS provider",
+            "Large scale product development - rare opportunity to build next gen product",
+            "Full time permanent role based in Dulwich - great location & collaborative team"
+          ],
+          "advertiser": {
+            "id": "34851539",
+            "description": "Ascender"
+          },
+          "logo": {
+            "id": "599302",
+            "description": "599302"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 15448,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "Great learning environment",
+          "companyProfileStructuredDataId": 347524,
+          "companyName": "Ascender",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Dulwich SA 5065",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTciCn0=",
+          "templateFileName": "ptmpl_1.htm",
+          "roleId": "product-analyst",
+          "branding": {
+            "id": "b50c20fb-d431-da01-39b2-7324264d3b36",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/4fd42751547f29ea3916948a591b729cb6986ce8"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50147315",
+            "section": "MAIN",
+            "sectionRank": 17,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": false,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54171040,
+          "listingDate": "2020-07-03T01:01:16Z",
+          "title": "Manager, Public Transport Data and Analytics",
+          "teaser": "This role is responsible for developing and maintaining data governance and ownership structure and records",
+          "bulletPoints": [
+            "Take ownership of all public transport data and analytics for the department",
+            "Develop and implement data strategy",
+            "Roadmap for a whole of public transport data analytics platform"
+          ],
+          "advertiser": {
+            "id": "20294524",
+            "description": "Department of Planning, Transport & Infrastructure"
+          },
+          "logo": {
+            "id": "315724",
+            "description": "315724"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1411",
+            "description": "Government - State"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7590,
+          "companyName": "Department of Planning, Transport & Infrastructure SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTgiCn0=",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "manager",
+          "branding": {
+            "id": "24bf9bfc-e7d1-eae9-efb4-cd8783a9972e",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/d3518b74f4eacbe7948b38fa4d45c76512b92745"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50182507",
+            "section": "MAIN",
+            "sectionRank": 18,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54092723,
+          "listingDate": "2020-07-02T05:47:50Z",
+          "title": "Business Analyst",
+          "teaser": "Opportunity for a Business Analyst to work on a 3-month contract.",
+          "bulletPoints": [
+            "3-month contract",
+            "Adelaide CBD based",
+            "ICT Projects"
+          ],
+          "advertiser": {
+            "id": "29308062",
+            "description": "Hays Information Technology"
+          },
+          "logo": {
+            "id": "404327",
+            "description": "404327"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 29,
+          "companyName": "Hays Recruitment",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTkiCn0=",
+          "templateFileName": "25159668_21.htm",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "ee483eba-fa3c-d4fc-7bb5-8c7a464f2b69",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/8b412d99ea43441db7f495d5a6120cb2891139ef"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50178934",
+            "section": "MAIN",
+            "sectionRank": 19,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54040087,
+          "listingDate": "2020-07-03T06:00:20Z",
+          "title": "Systems Analyst",
+          "teaser": "Exciting opportunity to showcase your expertise with SharePoint, SharePoint Online and Nintex environments.",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "1871181",
+            "description": "Silver Chain"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 3741,
+          "companyName": "Silver Chain",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMjAiCn0=",
+          "templateFileName": "1871181_34.HTM",
+          "roleId": "systems-analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50185876",
+            "section": "MAIN",
+            "sectionRank": 20,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        }
+      ],
+      "location": {
+        "matched": true,
+        "description": "All Adelaide SA",
+        "whereId": 1007,
+        "locationId": 1007,
+        "locationDescription": "Adelaide",
+        "areaId": 0,
+        "areaDescription": "",
+        "type": "Location",
+        "stateDescription": "South Australia",
+        "suburbType": "rural",
+        "suburbParentDescription": "All Adelaide SA"
+      },
+      "paginationParameters": {
+        "seekSelectAllPages": true,
+        "hadPremiumListings": false
+      },
+      "info": {
+        "timeTaken": 18,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_49"
+      },
+      "userQueryId": "66c98b1f5a17db3fc7bffc6fb9296129-8005293",
+      "sortMode": [
+        {
+          "name": "Relevance",
+          "value": "KeywordRelevance",
+          "isActive": true
+        },
+        {
+          "name": "Date",
+          "value": "ListedDate",
+          "isActive": false
+        }
+      ],
+      "solMetadata": {
+        "requestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+        "keywords": "Data Analyst",
+        "locations": ["seekId:1007"],
+        "pageSize": 20,
+        "pageNumber": 1,
+        "totalJobCount": 324,
+        "tags": {
+          "mordor:flights": "mordor_49",
+          "seek:listviewid": "01bc5044-d3eb-41d8-9d87-86811d943fe9"
+        }
+      },
+      "joraCrossLink": {
+        "canCrossLink": false
+      },
+      "searchParams": {
+        "sitekey": "AU-Main",
+        "sourcesystem": "houston",
+        "userqueryid": "66c98b1f5a17db3fc7bffc6fb9296129-8005293",
+        "userid": "353c3896c627afb2e5147f34f2c1c9e5",
+        "usersessionid": "353c3896c627afb2e5147f34f2c1c9e5",
+        "eventcapturesessionid": "353c3896c627afb2e5147f34f2c1c9e5",
+        "where": "All Adelaide SA",
+        "page": "1",
+        "seekselectallpages": "true",
+        "keywords": "Data Analyst",
+        "include": "seodata",
+        "isdesktop": "true",
+        "solid": "5b19fe9a-55e2-41a6-8867-f303f43f63ac"
+      },
+      "page": 2
+    }
+  },
+  {
+    "page": 2,
+    "content": {
+      "title": "Data Analyst Jobs in All Adelaide SA",
+      "totalCount": 40,
+      "data": [
+        {
+          "id": 54008191,
+          "listingDate": "2020-07-06T11:54:43Z",
+          "title": "Data Analyst",
+          "teaser": "A unique opportunity to work as a Data Analyst for our growing federal government client",
+          "bulletPoints": [
+            "Commonwealth (Federal) Government Opportunity",
+            "Adelaide CBD Location"
+          ],
+          "advertiser": {
+            "id": "43321394",
+            "description": "Randstad Professionals"
+          },
+          "logo": {
+            "id": "838586",
+            "description": "838586"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1409",
+            "description": "Government - Federal"
+          },
+          "salary": "$46.46 - $58.67 p.h. + superannuation and benefits",
+          "companyProfileStructuredDataId": 1275,
+          "companyName": "Randstad",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMSIKfQ==",
+          "templateFileName": "27426310_8.HTM",
+          "roleId": "data-analyst",
+          "branding": {
+            "id": "2ad4321f-0b51-4c94-2e98-387a7881fe65",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/ec6969a6a2827cf11b21283763ae16016d4035dd"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50195834",
+            "section": "MAIN",
+            "sectionRank": 1,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54099149,
+          "listingDate": "2020-07-06T07:56:11Z",
+          "title": "Business/Data Analyst - 3 months",
+          "teaser": "3 month contract // Immediate start // CBD based role",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "23607483",
+            "description": "Talent – Winner ‘Seek Large Recruitment Agency of the Year’ 3 consecutive years!"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "3 month contract",
+          "companyProfileStructuredDataId": 22548,
+          "companyName": "Talent International",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMiIKfQ==",
+          "templateFileName": "568671_84.HTM",
+          "roleId": "business-data-analyst",
+          "branding": {
+            "id": "e996ffa1-94d6-a9fb-d565-b4464185752b",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/87e3d955ea102c1da1ecfda308e7844b1bd9f202"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50195293",
+            "section": "MAIN",
+            "sectionRank": 2,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54101932,
+          "listingDate": "2020-07-02T23:49:24Z",
+          "title": "Business Analyst",
+          "teaser": "Opportunity for an analyst to join SAPOL’s Data Warehouse team to build, develop and deliver Data Warehouse solutions which support the business.",
+          "bulletPoints": [
+            "Long term vacancy at South Australia Police",
+            "Developing Data Warehouse applications using SQL, SSIS Biml",
+            "Business Objects reporting"
+          ],
+          "advertiser": {
+            "id": "26630173",
+            "description": "South Australia Police"
+          },
+          "logo": {
+            "id": "505139",
+            "description": "505139"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6287",
+            "description": "Developers/Programmers"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 447,
+          "companyName": "South Australia Police",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMyIKfQ==",
+          "templateFileName": "15661867_1.HTM",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "5a32be73-f2f5-67f0-a98b-80694792cb0d",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/1b34566b14bb3090e094522c4a1cdcb4e681f358"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50181769",
+            "section": "MAIN",
+            "sectionRank": 3,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54150559,
+          "listingDate": "2020-07-02T23:49:24Z",
+          "title": "Business Analyst",
+          "teaser": "Opportunity for an analyst to join SAPOL’s Data Warehouse team to build, develop and deliver Data Warehouse solutions which support the business.",
+          "bulletPoints": [
+            "Long term vacancy at South Australia Police",
+            "Developing Data Warehouse applications using SQL, SSIS Biml",
+            "Business Objects reporting"
+          ],
+          "advertiser": {
+            "id": "26630173",
+            "description": "South Australia Police"
+          },
+          "logo": {
+            "id": "505139",
+            "description": "505139"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1411",
+            "description": "Government - State"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 447,
+          "companyName": "South Australia Police",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNCIKfQ==",
+          "templateFileName": "15661867_1.HTM",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "5a32be73-f2f5-67f0-a98b-80694792cb0d",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/1b34566b14bb3090e094522c4a1cdcb4e681f358"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50181770",
+            "section": "MAIN",
+            "sectionRank": 4,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54110619,
+          "listingDate": "2020-06-23T23:37:33Z",
+          "title": "Data Analytics Officer",
+          "teaser": "Opportunity to be part of a new team that will focus on delivering outcomes for the state.",
+          "bulletPoints": [
+            "Newly created position",
+            "Analysis of government expenditure",
+            "Flexible working arrangements"
+          ],
+          "advertiser": {
+            "id": "20065039",
+            "description": "Department of Treasury and Finance"
+          },
+          "logo": {
+            "id": "152185",
+            "description": "152185"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6076",
+            "description": "Consulting & Strategy"
+          },
+          "subClassification": {
+            "id": "6077",
+            "description": "Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7618,
+          "companyName": "Department of Treasury & Finance SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNSIKfQ==",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "officer",
+          "branding": {
+            "id": "8941dc29-d0ec-fb25-ada9-f37750426683",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/cfb415c98e28f31a0fc26edb530ebaf8021f26db"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50134482",
+            "section": "MAIN",
+            "sectionRank": 5,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54171607,
+          "listingDate": "2020-06-29T16:54:38Z",
+          "title": "Data Scientist",
+          "teaser": "A Great Opportunity in an exciting startup!",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "45288009",
+            "description": "The Firehouse"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1223",
+            "description": "Science & Technology"
+          },
+          "subClassification": {
+            "id": "6222",
+            "description": "Mathematics, Statistics & Information Sciences"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 320553,
+          "companyName": "The Firehouse",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNiIKfQ==",
+          "templateFileName": "ptmpl_1.htm",
+          "roleId": "data-scientist",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50160561",
+            "section": "MAIN",
+            "sectionRank": 6,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": false,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54098788,
+          "listingDate": "2020-06-23T23:37:33Z",
+          "title": "Data Analytics Officer",
+          "teaser": "Opportunity to be part of a new team that will focus on delivering outcomes for the state.",
+          "bulletPoints": [
+            "Newly created position",
+            "Analysis of government expenditure",
+            "Flexible working arrangements"
+          ],
+          "advertiser": {
+            "id": "20065039",
+            "description": "Department of Treasury and Finance"
+          },
+          "logo": {
+            "id": "152185",
+            "description": "152185"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1411",
+            "description": "Government - State"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7618,
+          "companyName": "Department of Treasury & Finance SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfNyIKfQ==",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "officer",
+          "branding": {
+            "id": "8941dc29-d0ec-fb25-ada9-f37750426683",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/cfb415c98e28f31a0fc26edb530ebaf8021f26db"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50134483",
+            "section": "MAIN",
+            "sectionRank": 7,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54131807,
+          "listingDate": "2020-06-30T07:51:45Z",
+          "title": "BI Analyst",
+          "teaser": "Excellent BI Analyst opportunity with a well reputed client in Adelaide.",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "33086778",
+            "description": "FinXL IT Professional Services"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6287",
+            "description": "Developers/Programmers"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 23616,
+          "companyName": "FinXL IT Professional Services",
+          "locationWhereValue": "All Adelaide SA",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfOCIKfQ==",
+          "templateFileName": "2379_10.HTM",
+          "roleId": "business-intelligence-analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50166588",
+            "section": "MAIN",
+            "sectionRank": 8,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54111077,
+          "listingDate": "2020-06-30T23:34:00Z",
+          "title": "Intelligence Analyst (Signals)",
+          "teaser": "Work in a highly classified environment providing Air Force operations with intelligence support.",
+          "bulletPoints": [
+            "Handle sensitive intelligence that contributes to national security",
+            "Full training provided to work with high-tech equipment",
+            "Excellent salary package plus travel and numerous benefits"
+          ],
+          "advertiser": {
+            "id": "35679794",
+            "description": "Defence Force Recruiting"
+          },
+          "logo": {
+            "id": "627775",
+            "description": "627775"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1409",
+            "description": "Government - Federal"
+          },
+          "salary": "$70,000 - $74,999",
+          "companyProfileStructuredDataId": 3730,
+          "companyName": "Royal Australian Air Force",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfOSIKfQ==",
+          "templateFileName": "23533776_1.HTM",
+          "roleId": "intelligence-analyst",
+          "branding": {
+            "id": "2fa5e6f7-e915-a9d6-dec9-6c4f67787513",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/a836621ca7d100527a5df8eade2ad0d12f8e6342"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50168348",
+            "section": "MAIN",
+            "sectionRank": 9,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54169416,
+          "listingDate": "2020-06-30T23:33:59Z",
+          "title": "Intelligence Analyst (Signals)",
+          "teaser": "Work in a highly classified environment providing Air Force operations with intelligence support.",
+          "bulletPoints": [
+            "Handle sensitive intelligence that contributes to national security",
+            "Full training provided to work with high-tech equipment",
+            "Excellent salary package plus travel and numerous benefits"
+          ],
+          "advertiser": {
+            "id": "35679794",
+            "description": "Defence Force Recruiting"
+          },
+          "logo": {
+            "id": "627775",
+            "description": "627775"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6297",
+            "description": "Security"
+          },
+          "salary": "$70,000 - $74,999",
+          "companyProfileStructuredDataId": 3730,
+          "companyName": "Royal Australian Air Force",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTAiCn0=",
+          "templateFileName": "23533776_1.HTM",
+          "roleId": "intelligence-analyst",
+          "branding": {
+            "id": "2fa5e6f7-e915-a9d6-dec9-6c4f67787513",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/a836621ca7d100527a5df8eade2ad0d12f8e6342"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50168347",
+            "section": "MAIN",
+            "sectionRank": 10,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54111544,
+          "listingDate": "2020-06-26T04:36:53Z",
+          "title": "Market Intelligence and Consumer Insights Analyst",
+          "teaser": "Food SA is seeking a Market Intelligence and Consumer Insights Analyst to support the profitable growth of the SA food and beverage industry.",
+          "bulletPoints": [
+            "Newly created role in peak industry body in South Australia",
+            "Full time (part time negotiable)",
+            "Contract position until end June 2022"
+          ],
+          "advertiser": {
+            "id": "28794689",
+            "description": "Food South Australia Inc"
+          },
+          "logo": {
+            "id": "10048958",
+            "description": "10048958"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 21532,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6008",
+            "description": "Marketing & Communications"
+          },
+          "subClassification": {
+            "id": "6014",
+            "description": "Market Research & Analysis"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 242658,
+          "companyName": "Food South Australia",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Urrbrae SA 5064",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTEiCn0=",
+          "templateFileName": "ptmpl_1.htm",
+          "roleId": "consumer-insights-analyst",
+          "branding": {
+            "id": "619b9068-ac6a-a8f6-d5c8-1ed2685634dc",
+            "logo": {
+              "url": "https://image-service-cdn.seek.com.au/256ab70d7e726e5f454d7552d442b9f7e5caf897"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50150046",
+            "section": "MAIN",
+            "sectionRank": 11,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": false,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54119024,
+          "listingDate": "2020-07-03T12:21:10Z",
+          "title": "Spatial Image Data Specialist",
+          "teaser": "Excellent opportunity for an experienced industry professional to join a rapidly growing team in the role of Spatial Image Data Specialist.",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "31910200",
+            "description": "Aerometrex"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 20905,
+          "workType": "Casual/Vacation",
+          "classification": {
+            "id": "1223",
+            "description": "Science & Technology"
+          },
+          "subClassification": {
+            "id": "6218",
+            "description": "Environmental, Earth & Geosciences"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 209816,
+          "companyName": "Aerometrex",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Glynde SA 5070",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTIiCn0=",
+          "templateFileName": "31910200_2.HTM",
+          "roleId": "data-specialist",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50187702",
+            "section": "MAIN",
+            "sectionRank": 12,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54092722,
+          "listingDate": "2020-06-17T23:24:16Z",
+          "title": "NV1 Data Analyst",
+          "teaser": "Long term rolling contract!\r\nData Analyst with Power BI experience\r\nMust have NV1 clearance",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "22297007",
+            "description": "Green Light PS Pty Ltd"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6286",
+            "description": "Database Development & Administration"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 23233,
+          "companyName": "Green Light Australia",
+          "locationWhereValue": "All Adelaide SA",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTMiCn0=",
+          "templateFileName": "22297007_1.htm",
+          "roleId": "data-analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50106699",
+            "section": "MAIN",
+            "sectionRank": 13,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54101421,
+          "listingDate": "2020-07-03T06:16:46Z",
+          "title": "Business Analyst",
+          "teaser": "An exciting opportunity exists for an experienced Business Analyst to join our International Business Development team",
+          "bulletPoints": [
+            "Based in Adelaide",
+            "Expanding Multinational Company",
+            "Room for Growth"
+          ],
+          "advertiser": {
+            "id": "24204296",
+            "description": "ICS"
+          },
+          "logo": {
+            "id": "825202",
+            "description": "825202"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 24049,
+          "workType": "Part Time",
+          "classification": {
+            "id": "6076",
+            "description": "Consulting & Strategy"
+          },
+          "subClassification": {
+            "id": "6077",
+            "description": "Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 0,
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Norwood SA 5067",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTQiCn0=",
+          "templateFileName": "24204296_3.HTM",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "3a84f766-737b-01a6-e6e8-cc708a456775",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/ee24437543888b200147b2b02cc47ab3b772e74a"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50186136",
+            "section": "MAIN",
+            "sectionRank": 14,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54095328,
+          "listingDate": "2020-06-18T00:46:34Z",
+          "title": "Analyst",
+          "teaser": "CBD Location | 6-month contract | on-going training",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "21807721",
+            "description": "Robert Walters"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "1203",
+            "description": "Banking & Financial Services"
+          },
+          "subClassification": {
+            "id": "6175",
+            "description": "Analysis & Reporting"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 2557,
+          "companyName": "Robert Walters",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTUiCn0=",
+          "templateFileName": "2174_50.HTM",
+          "roleId": "analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50107458",
+            "section": "MAIN",
+            "sectionRank": 15,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54101932,
+          "listingDate": "2020-07-03T01:01:16Z",
+          "title": "Manager, Public Transport Data and Analytics",
+          "teaser": "This role is responsible for developing and maintaining data governance and ownership structure and records",
+          "bulletPoints": [
+            "Take ownership of all public transport data and analytics for the department",
+            "Develop and implement data strategy",
+            "Roadmap for a whole of public transport data analytics platform"
+          ],
+          "advertiser": {
+            "id": "20294524",
+            "description": "Department of Planning, Transport & Infrastructure"
+          },
+          "logo": {
+            "id": "315724",
+            "description": "315724"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6303",
+            "description": "Other"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7590,
+          "companyName": "Department of Planning, Transport & Infrastructure SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTYiCn0=",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "manager",
+          "branding": {
+            "id": "24bf9bfc-e7d1-eae9-efb4-cd8783a9972e",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/d3518b74f4eacbe7948b38fa4d45c76512b92745"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50182506",
+            "section": "MAIN",
+            "sectionRank": 16,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 53853932,
+          "listingDate": "2020-06-26T00:28:04Z",
+          "title": "Product Analyst",
+          "teaser": "Define new product features and shape existing user experiences in a dynamic, collaborative team environment. Dulwich, Adelaide location.",
+          "bulletPoints": [
+            "Leading APAC Payroll and HCM SaaS provider",
+            "Large scale product development - rare opportunity to build next gen product",
+            "Full time permanent role based in Dulwich - great location & collaborative team"
+          ],
+          "advertiser": {
+            "id": "34851539",
+            "description": "Ascender"
+          },
+          "logo": {
+            "id": "599302",
+            "description": "599302"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 15448,
+          "workType": "Full Time",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "Great learning environment",
+          "companyProfileStructuredDataId": 347524,
+          "companyName": "Ascender",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Dulwich SA 5065",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTciCn0=",
+          "templateFileName": "ptmpl_1.htm",
+          "roleId": "product-analyst",
+          "branding": {
+            "id": "b50c20fb-d431-da01-39b2-7324264d3b36",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/4fd42751547f29ea3916948a591b729cb6986ce8"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50147315",
+            "section": "MAIN",
+            "sectionRank": 17,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": false,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54171040,
+          "listingDate": "2020-07-03T01:01:16Z",
+          "title": "Manager, Public Transport Data and Analytics",
+          "teaser": "This role is responsible for developing and maintaining data governance and ownership structure and records",
+          "bulletPoints": [
+            "Take ownership of all public transport data and analytics for the department",
+            "Develop and implement data strategy",
+            "Roadmap for a whole of public transport data analytics platform"
+          ],
+          "advertiser": {
+            "id": "20294524",
+            "description": "Department of Planning, Transport & Infrastructure"
+          },
+          "logo": {
+            "id": "315724",
+            "description": "315724"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Full Time",
+          "classification": {
+            "id": "1210",
+            "description": "Government & Defence"
+          },
+          "subClassification": {
+            "id": "1411",
+            "description": "Government - State"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 7590,
+          "companyName": "Department of Planning, Transport & Infrastructure SA",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTgiCn0=",
+          "templateFileName": "20969063_3.HTM",
+          "roleId": "manager",
+          "branding": {
+            "id": "24bf9bfc-e7d1-eae9-efb4-cd8783a9972e",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/d3518b74f4eacbe7948b38fa4d45c76512b92745"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50182507",
+            "section": "MAIN",
+            "sectionRank": 18,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54092723,
+          "listingDate": "2020-07-02T05:47:50Z",
+          "title": "Business Analyst",
+          "teaser": "Opportunity for a Business Analyst to work on a 3-month contract.",
+          "bulletPoints": [
+            "3-month contract",
+            "Adelaide CBD based",
+            "ICT Projects"
+          ],
+          "advertiser": {
+            "id": "29308062",
+            "description": "Hays Information Technology"
+          },
+          "logo": {
+            "id": "404327",
+            "description": "404327"
+          },
+          "isPremium": false,
+          "isStandOut": true,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 29,
+          "companyName": "Hays Recruitment",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standout",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMTkiCn0=",
+          "templateFileName": "25159668_21.htm",
+          "roleId": "business-analyst",
+          "branding": {
+            "id": "ee483eba-fa3c-d4fc-7bb5-8c7a464f2b69",
+            "logo": {
+              "url": "https://image-service-cdn.cloud.seek.com.au/8b412d99ea43441db7f495d5a6120cb2891139ef"
+            }
+          },
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50178934",
+            "section": "MAIN",
+            "sectionRank": 19,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        },
+        {
+          "id": 54040087,
+          "listingDate": "2020-07-03T06:00:20Z",
+          "title": "Systems Analyst",
+          "teaser": "Exciting opportunity to showcase your expertise with SharePoint, SharePoint Online and Nintex environments.",
+          "bulletPoints": [],
+          "advertiser": {
+            "id": "1871181",
+            "description": "Silver Chain"
+          },
+          "logo": {
+            "id": "",
+            "description": null
+          },
+          "isPremium": false,
+          "isStandOut": false,
+          "location": "Adelaide",
+          "locationId": 1007,
+          "area": "",
+          "suburbId": 11065,
+          "workType": "Contract/Temp",
+          "classification": {
+            "id": "6281",
+            "description": "Information & Communication Technology"
+          },
+          "subClassification": {
+            "id": "6283",
+            "description": "Business/Systems Analysts"
+          },
+          "salary": "",
+          "companyProfileStructuredDataId": 3741,
+          "companyName": "Silver Chain",
+          "locationWhereValue": "All Adelaide SA",
+          "suburbWhereValue": "Adelaide SA 5000",
+          "automaticInclusion": false,
+          "displayType": "standard",
+          "tracking": "ewogICJ0b2tlbiI6ICIwMWJjNTA0NC1kM2ViLTQxZDgtOWQ4Ny04NjgxMWQ5NDNmZTlfMjAiCn0=",
+          "templateFileName": "1871181_34.HTM",
+          "roleId": "systems-analyst",
+          "solMetadata": {
+            "searchRequestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+            "jobId": "50185876",
+            "section": "MAIN",
+            "sectionRank": 20,
+            "jobAdType": "ORGANIC",
+            "tags": {
+              "mordor:flights": "mordor_49"
+            }
+          },
+          "branding": null,
+          "hasCustomTemplate": true,
+          "isPrivateAdvertiser": false
+        }
+      ],
+      "location": {
+        "matched": true,
+        "description": "All Adelaide SA",
+        "whereId": 1007,
+        "locationId": 1007,
+        "locationDescription": "Adelaide",
+        "areaId": 0,
+        "areaDescription": "",
+        "type": "Location",
+        "stateDescription": "South Australia",
+        "suburbType": "rural",
+        "suburbParentDescription": "All Adelaide SA"
+      },
+      "paginationParameters": {
+        "seekSelectAllPages": true,
+        "hadPremiumListings": false
+      },
+      "info": {
+        "timeTaken": 18,
+        "source": "JobSearch-sm",
+        "experiment": "mordor_49"
+      },
+      "userQueryId": "66c98b1f5a17db3fc7bffc6fb9296129-8005293",
+      "sortMode": [
+        {
+          "name": "Relevance",
+          "value": "KeywordRelevance",
+          "isActive": true
+        },
+        {
+          "name": "Date",
+          "value": "ListedDate",
+          "isActive": false
+        }
+      ],
+      "solMetadata": {
+        "requestToken": "bdd70edf-effa-4b7b-a3c3-5d8e7e682ffb",
+        "keywords": "Data Analyst",
+        "locations": ["seekId:1007"],
+        "pageSize": 20,
+        "pageNumber": 1,
+        "totalJobCount": 324,
+        "tags": {
+          "mordor:flights": "mordor_49",
+          "seek:listviewid": "01bc5044-d3eb-41d8-9d87-86811d943fe9"
+        }
+      },
+      "joraCrossLink": {
+        "canCrossLink": false
+      },
+      "searchParams": {
+        "sitekey": "AU-Main",
+        "sourcesystem": "houston",
+        "userqueryid": "66c98b1f5a17db3fc7bffc6fb9296129-8005293",
+        "userid": "353c3896c627afb2e5147f34f2c1c9e5",
+        "usersessionid": "353c3896c627afb2e5147f34f2c1c9e5",
+        "eventcapturesessionid": "353c3896c627afb2e5147f34f2c1c9e5",
+        "where": "All Adelaide SA",
+        "page": "1",
+        "seekselectallpages": "true",
+        "keywords": "Data Analyst",
+        "include": "seodata",
+        "isdesktop": "true",
+        "solid": "5b19fe9a-55e2-41a6-8867-f303f43f63ac"
+      },
+      "page": 2
+    }
+  }
+]

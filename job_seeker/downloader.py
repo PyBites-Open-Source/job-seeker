@@ -7,6 +7,7 @@ import requests
 class JobSeeker:
 
     SEEK_API_URL = "https://www.seek.com.au/api/chalice-search/search"
+    SEEK_API_URL_JOB = "https://chalice-experience-api.cloud.seek.com.au/job"
 
     def __init__(self, params: dict) -> None:
 
@@ -20,6 +21,8 @@ class JobSeeker:
         self.total_count = self._get_jobs_count()
         self.jobs_df = self._current_jobs_to_df()
         self.df_io = self._df_to_io_output(self.jobs_df)
+        self.jobs_id = self._extract_list_job_ids()
+        self.jobs_detail_json = None
 
     def _get_jobs_count(self) -> int:
         r = requests.get(url=self.SEEK_API_URL, params=self.params)
@@ -80,3 +83,17 @@ class JobSeeker:
 
     def _df_to_io_output(self, df):
         return df.to_csv(index=False)
+
+    def _extract_list_job_ids(self)-> list:
+        if "job_id" in self.jobs_df.columns:
+            return self.jobs_df["job_id"].to_list()
+
+    def get_jobs_detail_json(self):
+        jobs_detail = list()
+        for job in self.jobs_id:
+            r = requests.get(f"{self.SEEK_API_URL_JOB}/{job}")
+            if r.ok:
+                job_data = r.json()
+                jobs_detail.append(job_data)
+        return jobs_detail
+
