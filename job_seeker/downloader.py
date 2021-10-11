@@ -70,6 +70,7 @@ class JobSeeker:
                     jobs_data["teaser"].append(teaser)
                     jobs_data["classification"].append(classification)
                     jobs_data["subClassification"].append(subClassification)
+                    jobs_data["workType"].append(workType)
                     jobs_data["location"].append(location)
                     jobs_data["suburbWhereValue"].append(suburbWhereValue)
                     jobs_data["salary"].append(salary)

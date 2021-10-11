@@ -5,7 +5,6 @@ from pathlib import Path
 import pytest
 
 from job_seeker.downloader import JobSeeker
-import requests
 
 parent = (Path(__file__).absolute().parent)
 
@@ -15,7 +14,6 @@ parameters = {
 }
 
 def mocked_requests_get(url: str, params: dict = None):
-    request_url = url
     if params:
         default_params = dict(
             siteKey="AU-Main",
