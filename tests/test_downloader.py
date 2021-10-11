@@ -23,7 +23,7 @@ def test_get_pages(js_instance):
 def test_df_instance(js_instance):
     df = js_instance.jobs_df
     assert isinstance(df, pd.DataFrame)
-    assert df.shape == (40, 14)
+    assert df.shape == (40, 15)
     assert df["page"].max() == 2
 
 
