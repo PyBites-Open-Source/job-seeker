@@ -3,9 +3,9 @@ import json
 from pathlib import Path
 
 import pytest
-import requests
 
 from job_seeker.downloader import JobSeeker
+import requests
 
 parent = (Path(__file__).absolute().parent)
 
