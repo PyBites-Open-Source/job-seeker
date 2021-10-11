@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="job_seeker",
-    version="0.0.2",
+    version="0.0.3",
     author="Pedro Junqueira",
     author_email="pedrocj@gmail.com",
     description="An utility downloader for a job search at seek.com.au",
