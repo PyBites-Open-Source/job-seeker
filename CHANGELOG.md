@@ -1,5 +1,12 @@
 # Change Log
 
+## 0.0.3
+
+### Changed
+
+- included workType in the jobs_df
+- cleaned up some unused variables from conftest.py
+
 ## 0.0.2
 
 ### Added
