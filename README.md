@@ -1,3 +1,5 @@
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 # Job Seeker
 
 job_seeker is an utility to download data of a job search from seek.com.au into a csv file for data analysis and exploration
