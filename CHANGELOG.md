@@ -1,5 +1,11 @@
 # Change Log
 
+## Not Released
+
+### Added
+
+- Example Jupyter Notebook `Jobs_Detailed.ipynb` analysis in `/example/notebooks`
+
 ## 0.0.3
 
 ### Changed
