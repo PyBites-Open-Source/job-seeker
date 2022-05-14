@@ -1,5 +1,6 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![CI](https://github.com/PyBites-Open-Source/job-seeker/actions/workflows/publish-to-test-pypi.yml/badge.svg)](https://github.com/PyBites-Open-Source/job-seeker/blob/master/.github/workflows/publish-to-test-pypi.yml)
+[![CI](https://github.com/PyBites-Open-Source/job-seeker/actions/workflows/quality-and-send-to-pypi/badge.svg)](https://github.com/PyBites-Open-Source/job-seeker/blob/master/.github/workflows/quality-and-send-to-pypi.yml)
+[![CI](https://github.com/PyBites-Open-Source/job-seeker/actions/workflows/tox-tests.yml/badge.svg)](https://github.com/PyBites-Open-Source/job-seeker/blob/master/.github/workflows/tox-tests.yml)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/job-seeker)](https://pypi.org/project/job-seeker/)
 [![PyPI](https://img.shields.io/pypi/v/job-seeker?color=orange)](https://pypi.org/project/job-seeker/)
 
