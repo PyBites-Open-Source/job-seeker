@@ -1,6 +1,12 @@
 # Change Log
 
-## Not Released
+## 0.0.4
+
+- Removed Python 3.6 requirement
+- Added automated TOX test for Python 3.7, 3.8, 3.9, 3.10 and 3.11
+- Added Tox runner in GitHub Actions
+- Added README badges
+- Removed Jupyter Notebooks examples
 
 ### Added
 

@@ -1,5 +1,7 @@
 -r requirements.txt
 pytest
 pytest-vcr
+pytest-cov
 flake8
 pre-commit
+tox
