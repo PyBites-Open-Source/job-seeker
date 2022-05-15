@@ -1,15 +1,16 @@
 name: send 🐍 📦 to PyPI
 
-on: workflow_call:
-  inputs:
-    username:
-      required: true
-      type: string
-  secrets:
-    test_token:
-      required: true
-    token:
-      required: true
+on:
+  workflow_call:
+    inputs:
+      username:
+        required: true
+        type: string
+    secrets:
+      test_token:
+        required: true
+      token:
+        required: true
 
 jobs:
   tests-lint:
