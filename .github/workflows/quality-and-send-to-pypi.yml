@@ -1,6 +1,6 @@
 name: send 🐍 📦 to PyPI
 
-on: workflow_call
+on: workflow_call:
   inputs:
     username:
       required: true
