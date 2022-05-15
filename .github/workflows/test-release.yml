@@ -3,11 +3,11 @@ name: test-release
 on: [push]
 
 jobs:
-  # tox-tests:
-  # uses: ./.github/workflows/tox-tests.yml
+  tox-tests:
+  uses: ./.github/workflows/tox-tests.yml
 
   code-quality-release-pypi:
-    # needs: tox-tests
+    needs: tox-tests
     uses: ./.github/workflows/quality-and-send-to-pypi.yml
     with:
       username: __token__
