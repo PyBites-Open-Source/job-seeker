@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   tox-tests:
-    uses: ./.github/workflow/tox-tests.yml
+    uses: ./.github/workflows/tox-tests.yml
 
   code-quality-release-pypi:
     needs: tox-tests
