@@ -1,6 +1,6 @@
 name: send 🐍 📦 to PyPI
 
-on: push
+on: workflow_call
 
 jobs:
   tests-lint:
