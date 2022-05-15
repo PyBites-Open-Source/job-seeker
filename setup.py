@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="job_seeker",
-    version="0.0.4",
+    version="0.0.5",
     author="Pedro Junqueira",
     author_email="pedrocj@gmail.com",
     description="An utility downloader for a job search at seek.com.au",
@@ -16,11 +16,16 @@ setup(
         "Bug Tracker": "https://github.com/PyBites-Open-Source/job-seeker/issues",
     },
     classifiers=[
-        "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
+        'Programming Language :: Python',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Framework :: Pytest',
     ],
     packages=find_packages(exclude=["tests"]),
     install_requires=["pandas", "requests"],
-    python_requires=">=3.7, <=3.11",
 )
