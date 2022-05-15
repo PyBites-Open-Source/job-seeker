@@ -9,3 +9,8 @@ jobs:
   code-quality-release-pypi:
     # needs: tox-tests
     uses: ./.github/workflows/quality-and-send-to-pypi.yml
+    with:
+      username: __token__
+    secrets:
+      test_token: ${{ secrets.TEST_PYPI_API_TOKEN }}
+      token: ${{ secrets.PYPI_API_TOKEN }}
